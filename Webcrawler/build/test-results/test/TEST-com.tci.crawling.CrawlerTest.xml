@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tci.crawling.CrawlerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-14T22:05:06" hostname="MacBookPro.local" time="0.126">
+  <properties/>
+  <testcase name="shouldAllowToRetrieve_aSearchForAParticularID" classname="com.tci.crawling.CrawlerTest" time="0.037"/>
+  <testcase name="givenBean_whenHasValue_thenCorrect" classname="com.tci.crawling.CrawlerTest" time="0.033"/>
+  <testcase name="shouldAllowToRetrieve_aSearchForAParticularSearchWord" classname="com.tci.crawling.CrawlerTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
